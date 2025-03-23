@@ -1,1 +1,1 @@
-pip install yfinance pandas numpy
+pip install yfinance pandas numpy scikit-learn
